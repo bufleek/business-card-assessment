@@ -1,5 +1,14 @@
 /* General page styles */
 
+/*  ?   Specificities 
+! .card header (0,0,1,1)
+! .card footer (0,0,1,1)
+! .card (0,0,1,0)
+! .card article img(0,0,1,2)
+
+*/
+
+
 body {
   margin: 0;
 }
