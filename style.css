@@ -21,6 +21,14 @@ html {
 /*  ?   Header specific styles  */
 
 /*  ?   main business-card specific styles  */
+.card {
+    width: 35em;
+    height: 22em;
+    margin: 5em auto;
+    background-color: red;
+    border: 0.2em solid black;
+    border-radius: 1.5em;
+  }
 
 /*  ?   Footer Specific Styles  */
 
@@ -38,18 +46,11 @@ html {
 .card article img
 .card footer
 .card header
-.card
+
 
 /* Rulesets to be matched up with selectors */
 
-{
-  width: 35em;
-  height: 22em;
-  margin: 5em auto;
-  background-color: red;
-  border: 0.2em solid black;
-  border-radius: 1.5em;
-}
+
 
 {
   background-image: linear-gradient(to bottom,rgba(0,0,0,0.1), rgba(0,0,0,0));
