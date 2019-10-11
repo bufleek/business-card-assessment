@@ -60,6 +60,10 @@ html {
   }
   .card footer p{
       font-size:0.94em;
-      line-height:
+      line-height:1.5;
+  }
+  .card article p{
+      padding:0.625em;
+      color:rgba(255,255,255);
   }
 
