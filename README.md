@@ -96,7 +96,7 @@ NOTE: You don't need to edit the HTML in any way, except to apply the CSS to you
 
 You should include `.card` at the start of the selector chain in all your rules, so that these rules wouldn't interfere with the styling of any other elements if the business card were to be put on a page with a load of other content.
 
-## Instructions
+## Instructions 
 
 You have been provided with some raw HTML and an image, and need to write the necessary CSS to style this into a nifty little online business card. The following sections describe what you need to do.
 
