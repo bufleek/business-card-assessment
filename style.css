@@ -50,4 +50,7 @@ html {
   .card header h2, .card article p{
       margin:0;
   }
+  .card article{
+      height: 7.5em;
+  }
 
